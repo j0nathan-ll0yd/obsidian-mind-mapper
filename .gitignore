@@ -1,0 +1,35 @@
+# Obsidian vault with large binary files (PDFs, PNGs)
+Lifegames/
+
+# Input documents
+Documents/
+
+# Previous implementation (reference only)
+previous-files/
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+temp/

@@ -1,0 +1,5 @@
+# PDF Processing
+PyMuPDF>=1.23.0  # For PDF text extraction and link parsing
+
+# Utilities
+python-dateutil>=2.8.2  # For flexible date parsing
