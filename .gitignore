@@ -33,3 +33,26 @@ npm-debug.log*
 *.tmp
 *.temp
 temp/
+/Videos/
+
+# Backups from migrations
+backups/
+
+# Archived files (old documentation, batch prompts)
+archive/
+
+# Large Claude response files
+batch_*_response.json
+fireshot_batch_*_response.json
+evernote_batch_*_response.json
+
+# Evernote batch intermediate artifacts (4000+ files)
+evernote_batch_*.json
+evernote_batch_*_prompt.txt
+
+# OMC state (oh-my-claudecode)
+.omc/
+
+# Deprecated/abandoned files
+theme_taxonomy_proposal.json
+PHASE_3B_THEME_PROPOSAL.md

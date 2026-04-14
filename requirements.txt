@@ -1,5 +1,11 @@
 # PDF Processing
 PyMuPDF>=1.23.0  # For PDF text extraction and link parsing
 
+# Evernote ENML extraction
+pycrdt>=0.12.0  # Yjs CRDT decoder for .dat files
+markdownify>=0.14.1  # ENML → clean Markdown conversion
+playwright>=1.40.0  # Chromium renderer for high-fidelity web clip previews
+
 # Utilities
 python-dateutil>=2.8.2  # For flexible date parsing
+PyYAML>=6.0  # For YAML frontmatter parsing
