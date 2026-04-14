@@ -44,6 +44,8 @@ archive/
 # Large Claude response files
 batch_*_response.json
 fireshot_batch_*_response.json
+fireshot_batch_*.json
+fireshot_batch_*_prompt.txt
 evernote_batch_*_response.json
 
 # Evernote batch intermediate artifacts (4000+ files)
