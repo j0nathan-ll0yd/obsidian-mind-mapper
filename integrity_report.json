@@ -1,0 +1,337 @@
+{
+  "total_notes": 424,
+  "valid_notes": 370,
+  "statistics": {
+    "valid_notes": 370,
+    "model_claude-sonnet-4.5-20250929": 424,
+    "notes_with_tags": 424,
+    "total_tags": 3067,
+    "notes_with_authors": 384
+  },
+  "issues": {
+    "missing_attachment": [
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/2024-25 Protein Powder Category Report.md",
+        "message": "Missing attachment: e4ccdf87.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/2024-25 Protein Powder Category Report.md",
+        "message": "Missing attachment: e4ccdf87.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/2024-25 Protein Powder Category Report.md",
+        "message": "Missing attachment: e4ccdf87.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/A Guide to San Francisco's Privately-Owned Public Open Spaces (POPOS).md",
+        "message": "Missing attachment: 0066e6e5.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/A Guide to San Francisco's Privately-Owned Public Open Spaces (POPOS).md",
+        "message": "Missing attachment: 0066e6e5.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/A Guide to San Francisco's Privately-Owned Public Open Spaces (POPOS).md",
+        "message": "Missing attachment: 0066e6e5.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Castro LGBTQ Cultural District CHHESS Report.md",
+        "message": "Missing attachment: bda521a1.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Castro LGBTQ Cultural District CHHESS Report.md",
+        "message": "Missing attachment: bda521a1.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Castro LGBTQ Cultural District CHHESS Report.md",
+        "message": "Missing attachment: bda521a1.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks.md",
+        "message": "Missing attachment: c2ccb866.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks.md",
+        "message": "Missing attachment: c2ccb866.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks.md",
+        "message": "Missing attachment: c2ccb866.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/FY25 Street & Sidewalk Maintenance Standards Annual Report.md",
+        "message": "Missing attachment: a0c92813.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/FY25 Street & Sidewalk Maintenance Standards Annual Report.md",
+        "message": "Missing attachment: a0c92813.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/FY25 Street & Sidewalk Maintenance Standards Annual Report.md",
+        "message": "Missing attachment: a0c92813.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women.md",
+        "message": "Missing attachment: 6fc0cf7e.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women.md",
+        "message": "Missing attachment: 6fc0cf7e.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women.md",
+        "message": "Missing attachment: 6fc0cf7e.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Panic mode Visa crisis threatens SF parents' summer nanny plans.md",
+        "message": "Missing attachment: b9552e92.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Prompt Engineering A Comprehensive Guide.md",
+        "message": "Missing attachment: 593e1f85.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Prompt Engineering A Comprehensive Guide.md",
+        "message": "Missing attachment: 593e1f85.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Prompt Engineering A Comprehensive Guide.md",
+        "message": "Missing attachment: 593e1f85.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Prompt Engineering.md",
+        "message": "Missing attachment: 593e1f85.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Prompt Engineering.md",
+        "message": "Missing attachment: 593e1f85.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Prompt Engineering.md",
+        "message": "Missing attachment: 593e1f85.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Revenue Loan Agreement - The Libra Project LLC Rikkis Bar SF.md",
+        "message": "Missing attachment: 03b17189.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Revenue Loan Agreement - The Libra Project LLC Rikkis Bar SF.md",
+        "message": "Missing attachment: 03b17189.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Revenue Loan Agreement - The Libra Project LLC Rikkis Bar SF.md",
+        "message": "Missing attachment: 03b17189.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/SWE-Lancer Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering.md",
+        "message": "Missing attachment: 22f8bb00.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/SWE-Lancer Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering.md",
+        "message": "Missing attachment: 22f8bb00.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/SWE-Lancer Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering.md",
+        "message": "Missing attachment: 22f8bb00.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Teens, Trust, and Technology in the Age of AI.md",
+        "message": "Missing attachment: cfece04f.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Teens, Trust, and Technology in the Age of AI.md",
+        "message": "Missing attachment: cfece04f.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Teens, Trust, and Technology in the Age of AI.md",
+        "message": "Missing attachment: cfece04f.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/The Number of Exceptional People Fewer than 85 per 1 Million Across Key Traits.md",
+        "message": "Missing attachment: 501437f0.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/The Number of Exceptional People Fewer than 85 per 1 Million Across Key Traits.md",
+        "message": "Missing attachment: 501437f0.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/The Number of Exceptional People Fewer than 85 per 1 Million Across Key Traits.md",
+        "message": "Missing attachment: 501437f0.json"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/This Powerful Psychedelic Shows Promise for Relieving Traumatic Brain Injury.md",
+        "message": "Missing attachment: fbbb78cf.pdf"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/This Powerful Psychedelic Shows Promise for Relieving Traumatic Brain Injury.md",
+        "message": "Missing attachment: fbbb78cf.png"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/This Powerful Psychedelic Shows Promise for Relieving Traumatic Brain Injury.md",
+        "message": "Missing attachment: fbbb78cf.json"
+      }
+    ],
+    "wrong_type": [
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/AI-Fueled Spiritual Delusions Are Destroying Human Relationships.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Ask HN Where do you keep your 401k investments.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Batman's Vet Bills, Please Help!.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Bay Area companies turn to etiquette experts for Gen Z help.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/CSLB SWIFT Lead Referral Program.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/California could raise car dealer paperwork junk fees.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/College Students Are Using 'No Contact Orders' to Block Each Other.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Condos used to be the ideal starter home in San Francisco.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Five Ways to Keep Your Neighbors From Looking Down Into Your Yard.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Google offers voluntary exit payouts to specific U.S. teams.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Help Eddie (Edamame) Get the Surgery He Needs.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/How Jony Ive's LoveFrom helped Rivian.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/How Much Net Worth You Need to Be 'Wealthy' in America's Biggest Cities.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/How is California spending Prop. 1 mental health money.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/I'm So Damn Tired of Monitors With High Refresh Rates and Nothing Else.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/In 2025, venture capital can't pretend everything is fine anymore.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/It shouldn't be this hard San Francisco's first women's sports bar.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Joan Crawford Superstar Loving Bio at Theater 33.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Joan Crawford Superstar at Theatre Eddys.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Jonathan D Lloyd (40) in San Francisco, CA - Public Records Profile.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Klarna Hiring Back Human Help After Going All-In on AI.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Mayor Daniel Lurie Announces 7.5M Fund.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/My Safe Space – The White House.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Newsom to Ask Cities to Ban Homeless Encampments, Escalating Crackdown.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Prepaid Unlimited & Shared Data Plans From Only $5Month.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Rampant AI Cheating Is Ruining Education Alarmingly Fast.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Records reveal details of CA's early-release program for prisoners.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Return To Office Policies For California's Biggest Companies.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/SCQA What is it, how does it work, and how can it help me.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/SF Treasure Hunt August 2025.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/SF public defender stops taking cases, citing Lurie's anti-fentanyl strategy.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Square Data Shows How 2025's Economic Volatility Is Impacting the Restaurant Industry.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/State Farm wins first-ever emergency rate hike in California.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/The Health Benefits of Sunlight May Outweigh the Risk of Skin Cancer.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/These Solos Smart Glasses Might Make Me Ditch My Ray Ban Metas.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Three Crucial Facts You Need to Know About an Insurer Before Buying a Policy.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Turo Reviews Pros and Cons of Working at Turo.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/What Happens When Clergy Take Psilocybin.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/What's the Difference Between LED and Mini-LED.md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      },
+      {
+        "note": "/Users/jlloyd/Repositories/obsidian-mind-mapper/Lifegames/Why Are ADHD Rates So Much Higher in the U.S..md",
+        "message": "Field 'authors' has type NoneType, expected list"
+      }
+    ]
+  }
+}

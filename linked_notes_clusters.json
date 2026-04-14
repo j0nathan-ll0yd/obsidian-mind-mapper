@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-11-18",
+    "description": "Clusters of directly related notes for bi-directional wiki linking",
+    "total_clusters": 33
+  },
+  "clusters": [
+    {
+      "cluster_id": "waymo_av",
+      "name": "Waymo / Autonomous Vehicles",
+      "description": "Tracking Waymo's business evolution and safety research",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "How Waymo outlasted the competition and made robo-taxis a real business.md",
+        "Waymo Receives Permit to Operate at SFO.md",
+        "Comparison of Waymo Rider-Only Crash Rates by Crash Type to Human Benchmarks.md",
+        "Everyone Is Talking About the Waymo Portola Ticket Discount Except Waymo.md",
+        "We Booked a Ride in Tesla's Robotaxi, Then Raced It Against a Waymo.md"
+      ]
+    },
+    {
+      "cluster_id": "care_court",
+      "name": "CARE Court Program",
+      "description": "Tracking California's mental health court program from effectiveness review to expansion",
+      "linking_strategy": "linear",
+      "notes": [
+        "Is Newsom's CARE Court Making a Difference What the Data Show.md",
+        "Newsom Signs Law Expanding CARE Court Mental Health Program.md"
+      ]
+    },
+    {
+      "cluster_id": "castro_theatre",
+      "name": "Castro Theatre Renovation",
+      "description": "Tracking the troubled Castro Theatre renovation project",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Electricity hookup issues mean Castro Theatre won't reopen this summer.md",
+        "Castro eatery, nail salon fighting to stay in storefronts amid Castro Theatre renovations.md",
+        "Castro Theatre Readies for Grand Reopening.md",
+        "The Castro Theatre Reopens Friday We Got a First Peek Inside.md"
+      ]
+    },
+    {
+      "cluster_id": "high_speed_rail",
+      "name": "California High-Speed Rail",
+      "description": "Tracking California's HSR project from funding to political opposition",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "California High-Speed Rail to 'Finally' Begin Laying Track.md",
+        "Feds pledge $3.4B to bring Caltrain, high-speed rail to Salesforce center.md",
+        "Trump targets California\u2019s troubled bullet train project. It may deserve a mercy killing.md",
+        "US Will Not Pay for California High-Speed Rail, Trump Says.md"
+      ]
+    },
+    {
+      "cluster_id": "homelessness_policy",
+      "name": "Homelessness Policy",
+      "description": "Tracking California/SF homelessness initiatives and their outcomes",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Newsom promised 1,200 tiny homes for homeless Californians. A year later, there are none.md",
+        "Newsom releases billions for mental health housing ahead of schedule 'Time to deliver'.md",
+        "Newsom to Ask Cities to Ban Homeless Encampments, Escalating Crackdown.md",
+        "Bay Area leaders plan to reduce homelessness by 75% in 3 years.md"
+      ]
+    },
+    {
+      "cluster_id": "rto_research",
+      "name": "Return-to-Office Research",
+      "description": "Research studies on RTO effectiveness and productivity",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Remote Work Doesn\u2019t Seem to Affect Productivity, Fed Study Finds.md",
+        "RTO doesn't improve company value, but does make employees miserable Study.md",
+        "There\u2019s More Proof That Return to Office Is Pointless.md",
+        "'The new normal' work from home is US work & careers here to stay, US data shows.md"
+      ]
+    },
+    {
+      "cluster_id": "rto_company_mandates",
+      "name": "Company RTO Mandates",
+      "description": "Specific company return-to-office policies and their impacts",
+      "linking_strategy": "hub_spoke",
+      "hub_note": "RTO doesn't improve company value, but does make employees miserable Study.md",
+      "notes": [
+        "Amazon's RTO Policy Is Costing It Top Tech Talent, Internal Document Shows.md",
+        "Almost half of Dell's full-time US workforce has rejected the company's return-to-office push.md",
+        "The risk of RTO \u2014 Apple, SpaceX, Microsoft return-to-office mandates drove senior talent away.md",
+        "RTO doesn't improve company value, but does make employees miserable Study.md"
+      ]
+    },
+    {
+      "cluster_id": "rto_california",
+      "name": "California RTO Trends",
+      "description": "California and SF-specific return-to-office analysis",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Return To Office Policies For California's Biggest Companies.md",
+        "Here\u2019s how bad S.F.\u2019s return-to-office is compared to the rest of the U.S..md",
+        "Full-time work-from-home drops in Bay Area as hybrid schedules rise.md"
+      ]
+    },
+    {
+      "cluster_id": "rto_opinion",
+      "name": "RTO Opinion & Analysis",
+      "description": "Opinion pieces and analysis critiquing RTO mandates",
+      "linking_strategy": "hub_spoke",
+      "hub_note": "RTO doesn't improve company value, but does make employees miserable Study.md",
+      "notes": [
+        "Opinion The absurdity of the return-to-office movement.md",
+        "Bosses are using RTO mandates as a way to \u2018blame employees as a scapegoat for bad firm performance,\u2019.md",
+        "Return-to-Office Demands Don\u2019t Benefit Employees or Businesses.md",
+        "Return-to-Office Mandates How to Lose Your Best Performers.md",
+        "Strict return-to-office mandates can make top workers want to leave.md",
+        "RTO doesn't improve company value, but does make employees miserable Study.md"
+      ]
+    },
+    {
+      "cluster_id": "remote_work_downsides",
+      "name": "Remote Work Challenges",
+      "description": "Research on negative impacts of remote work",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "The loneliness of remote work Older adults most affected by the loss of social networks.md",
+        "Remote Work Doesn\u2019t Seem to Affect Productivity, Fed Study Finds.md"
+      ]
+    },
+    {
+      "cluster_id": "ai_coding",
+      "name": "AI-Assisted Coding",
+      "description": "Tracking the impact and challenges of AI coding tools",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "AI coding mandates are driving developers to the brink.md",
+        "How AI-assisted coding will change software engineering hard truths.md",
+        "The 70% problem Hard truths about AI-assisted coding.md",
+        "The State of AI Coding 2025.md",
+        "What AI Coding Costs You.md"
+      ]
+    },
+    {
+      "cluster_id": "coffee_health",
+      "name": "Coffee & Health Research",
+      "description": "Recent coffee health studies",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Caffeinated Coffee Consumption or Abstinence to Reduce Atrial Fibrillation Risk.md",
+        "Giant Study Links Drinking Coffee With Almost 2 Extra Years of Life.md"
+      ]
+    },
+    {
+      "cluster_id": "ultraprocessed_foods",
+      "name": "Ultra-Processed Foods",
+      "description": "Research on ultra-processed food health impacts",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Scientists are learning why ultra-processed foods are bad for you.md",
+        "Which Foods Are the Most Ultraprocessed New System Ranks Them.md"
+      ]
+    },
+    {
+      "cluster_id": "ca_insurance_crisis",
+      "name": "California Insurance Crisis",
+      "description": "Tracking California's homeowner/auto insurance crisis",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "California's Insurance System Is a Self-Made Disaster. It's Time for Reform.md",
+        "California\u2019s Largest Insurer Raises Auto and Home Insurance Rates by 20%.md",
+        "New Federal Bill Could Help Tackle the California Insurance Crisis.md",
+        "State Farm wins first-ever emergency rate hike in California.md"
+      ]
+    },
+    {
+      "cluster_id": "psychedelics",
+      "name": "Psychedelics Research & Policy",
+      "description": "Psychedelic therapy research and policy developments",
+      "linking_strategy": "hub_spoke",
+      "hub_note": "The Weak Science Behind Psychedelics.md",
+      "notes": [
+        "Psychedelics could treat some of the worst chronic pain in the world.md",
+        "This Powerful Psychedelic Shows Promise for Relieving Traumatic Brain Injury.md",
+        "The Weak Science Behind Psychedelics.md",
+        "Trump Administration and Bay Area Progressives Agree on Psychedelics.md"
+      ]
+    },
+    {
+      "cluster_id": "castro_business",
+      "name": "Castro Business Development",
+      "description": "Castro District business and economic development",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "APE Confirms Plans for Castro Street Coffee Shop, Nail Salon Spaces.md",
+        "Brothers' Castro Street Businesses Fight for Survival.md",
+        "Editorial 2 SF grants are crucial to Castro\u2019s success.md",
+        "Castro Coffee Co. and Nail Salon Set to Close and Relocate By April 30.md",
+        "Castro Coffee Co., Nail Salon Will Move, Mandelman Says.md",
+        "New Business to Take Over Vacated Eureka Lounge Space in Castro.md",
+        "When Peet's and Starbucks Closed, the Castro Lost More Than Coffee.md",
+        "Castro Coffee Co. Sees Room for Solution in Box Office Dispute.md",
+        "Castro Street Proprietors Express Disappointment in Ongoing Lease Disputes.md"
+      ]
+    },
+    {
+      "cluster_id": "castro_policy",
+      "name": "Castro Policy & Planning",
+      "description": "Castro District policy and planning developments",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Castro LGBTQ Cultural District CHHESS Report.md",
+        "Castro set to join other SF areas with an entertainment zone.md",
+        "SF Transportation Authority approves Castro-area traffic study funding.md"
+      ]
+    },
+    {
+      "cluster_id": "sf_restaurants_bestof",
+      "name": "SF Restaurants & Bars Best-Of",
+      "description": "Best-of lists for San Francisco restaurants and bars",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "The 10 Best New San Francisco Restaurants of 2025.md",
+        "The Best New San Francisco Bars of 2025.md",
+        "Top San Francisco Restaurants.md"
+      ]
+    },
+    {
+      "cluster_id": "pge_municipalization",
+      "name": "SF / PG&E Municipalization",
+      "description": "San Francisco's efforts to take over PG&E assets after repeated blackouts",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "How Would San Francisco Take Over PG&E Assets After Repeated Blackouts.md",
+        "PG&E and San Francisco Divorce Lawmakers Prepare After Blackouts.md"
+      ]
+    },
+    {
+      "cluster_id": "pet_crowdfunding",
+      "name": "Pet Crowdfunding / Vet Bills",
+      "description": "Crowdfunding campaigns for pet veterinary care",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Batman's Vet Bills, Please Help!.md",
+        "Help Eddie (Edamame) Get the Surgery He Needs.md"
+      ]
+    },
+    {
+      "cluster_id": "google_search_leak",
+      "name": "Google Search Ranking Leak",
+      "description": "Coverage of the leaked Google Search API documents revealing ranking factors",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "An Anonymous Source Shared Thousands of Leaked Google Search API Documents with Me; Everyone in SEO.md",
+        "Report 14,000+ Google Search Ranking Features Leaked.md"
+      ]
+    },
+    {
+      "cluster_id": "prompt_engineering",
+      "name": "Prompt Engineering Guides",
+      "description": "Guides and references for prompt engineering with LLMs",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Prompt Engineering A Comprehensive Guide.md",
+        "Prompt Engineering.md",
+        "The Prompt Engineering Playbook for Programmers.md"
+      ]
+    },
+    {
+      "cluster_id": "todo_list_methods",
+      "name": "To-Do List Methods",
+      "description": "Productivity methods for organizing and prioritizing to-do lists",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Make a Better To-do List With the 1-3-5 Method.md",
+        "Overhaul Your To-do List With the 'ABCDE' Method.md"
+      ]
+    },
+    {
+      "cluster_id": "four_day_workweek",
+      "name": "Four-Day Workweek",
+      "description": "Research and company experiences with the four-day workweek",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Once You Try a Four-Day Workweek, It\u2019s Hard to Go Back.md",
+        "These companies tried a 4-day workweek. More than a year in, they still love it.md"
+      ]
+    },
+    {
+      "cluster_id": "joan_crawford_stage",
+      "name": "Joan Crawford Stage Productions",
+      "description": "Reviews of Joan Crawford Superstar stage biography productions",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Joan Crawford Superstar Intentional Theatrics' Stage Biography of Hollywood Icon.md",
+        "Joan Crawford Superstar Loving Bio at Theater 33.md"
+      ]
+    },
+    {
+      "cluster_id": "productivity_psychology",
+      "name": "Productivity Psychology & Laws",
+      "description": "Psychological frameworks and laws of productivity",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Five Questions to Ask Yourself When You Aren't Being Productive.md",
+        "The Most Helpful \u2018Laws\u2019 of Productivity to Get More Done.md"
+      ]
+    },
+    {
+      "cluster_id": "sf_mental_health_lurie",
+      "name": "SF Mental Health & Lurie Administration",
+      "description": "SF Mayor Lurie's progress and funding on mental health and homelessness crises",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "How Is Lurie Doing on Mental Health and Homeless Crises These 7 Charts Tell the Story.md",
+        "San Francisco Receives $100 Million Proposition 1 Windfall to Expand Mental Health Services.md"
+      ]
+    },
+    {
+      "cluster_id": "glp1_weight_loss",
+      "name": "GLP-1 / Weight Loss Drugs",
+      "description": "Coverage of GLP-1 weight loss medications, new options, and what happens after stopping",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "Novo Nordisk's Latest Weight Loss Drug Might Be Its Best Yet\u2014and a Much Cheaper Option.md",
+        "What Happens After You Quit Weight-Loss Drugs New Study Offers Insights.md"
+      ]
+    },
+    {
+      "cluster_id": "eink_display",
+      "name": "E-Ink Display Technology",
+      "description": "Articles about E-Ink monitors and displays as an alternative to OLED",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "OLED is boring; E-Ink is where it's at.md",
+        "This Color E Ink Monitor Promises It\u2019s (Almost) Fast Enough to Keep Up With YouTube.md"
+      ]
+    },
+    {
+      "cluster_id": "ai_replaces_engineers",
+      "name": "AI Replacing Software Engineers",
+      "description": "Analysis of AI's impact on the software engineering profession and labor market",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "A Tech CEO Says AI Is About to Do to Everyone What It Is Doing to Coders. Is He Right.md",
+        "AI Writes the Code Now. What's Left for Software Engineers.md"
+      ]
+    },
+    {
+      "cluster_id": "vc_startup_bust",
+      "name": "Venture Capital & Startup Bust",
+      "description": "Coverage of the post-boom VC and startup market struggles",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "In 2025, venture capital can't pretend everything is fine anymore.md",
+        "The Unicorn Boom Is Over, and Startups Are Getting Desperate.md"
+      ]
+    },
+    {
+      "cluster_id": "brain_cognition",
+      "name": "Brain & Cognition",
+      "description": "Neuroscience articles on how the brain thinks, uses energy, and forms insights",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "How Much Energy Does It Take To Think.md",
+        "How Your Brain Creates 'Aha' Moments and Why They Stick.md"
+      ]
+    },
+    {
+      "cluster_id": "led_miniled_tv",
+      "name": "LED / Mini-LED TV Explainers",
+      "description": "Guides comparing LED and Mini-LED display technologies for TVs",
+      "linking_strategy": "full_mesh",
+      "notes": [
+        "The Best TVs to Buy in 2024.md",
+        "What's the Difference Between LED and Mini-LED.md"
+      ]
+    }
+  ],
+  "notes": {
+    "linking_strategies": {
+      "full_mesh": "All notes in cluster link to all other notes (bi-directional)",
+      "linear": "Notes link in sequence A\u2192B\u2192C (still bi-directional)",
+      "hub_spoke": "Hub note links to all spokes, spokes link back to hub"
+    },
+    "cross_cluster_notes": [
+      {
+        "note": "RTO doesn't improve company value, but does make employees miserable Study.md",
+        "clusters": [
+          "rto_research",
+          "rto_company_mandates",
+          "rto_opinion"
+        ],
+        "reason": "Central research study that appears in multiple RTO contexts"
+      },
+      {
+        "note": "Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds.md",
+        "clusters": [
+          "rto_research",
+          "remote_work_downsides"
+        ],
+        "reason": "Research study with implications for both RTO debate and remote work challenges"
+      }
+    ]
+  }
+}
